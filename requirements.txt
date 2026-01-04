@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+akshare==1.15.22
+numpy
+plotly
+lxml
+cryptography
